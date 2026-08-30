@@ -1,4 +1,4 @@
-Task 1
+--Task 1
 
 -- 1(a) List all distinct cities and faculty names
   
