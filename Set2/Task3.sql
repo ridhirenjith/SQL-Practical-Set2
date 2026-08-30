@@ -1,4 +1,4 @@
-Task 3
+--Task 3
 
 -- 3(a) List courses having more than 5 students
 SELECT course_id, COUNT(*) AS student_count
