@@ -1,4 +1,4 @@
-Task 6
+--Task 6
 
 -- 6(a) Create faculty_details table
 
