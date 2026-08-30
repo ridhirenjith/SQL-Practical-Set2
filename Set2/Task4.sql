@@ -1,4 +1,4 @@
-Task 4
+--Task 4
 
 -- Use s for students and c for courses
 -- Display student name, course name and marks
